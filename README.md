@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:0b3d2e,100:00ff9c&height=200&section=header&text=Badis%20JILANI&fontSize=58&fontColor=ffffff&fontAlign=50&fontAlignY=40&animation=fadeIn&desc=%3E%20augmented_developer%20%7C%20ai%20%26%20emerging%20tech&descSize=18&descAlignY=62&descAlign=50" width="100%" alt="header" />
-
-<a href="https://github.com/Badis-J">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00FF9C&background=00000000&center=true&vCenter=true&width=720&height=40&lines=%3E+whoami+%E2%86%92+CS+engineering+student+%40+CESI;%3E+role+%E2%86%92+Digital+Innovation+%26+Emerging+Tech+%40+TDF;%3E+stack+%E2%86%92+LLMs+%C2%B7+agents+%C2%B7+automation+%C2%B7+Kotlin;%3E+status+%E2%86%92+open+to+international+internship+2027" alt="typing" />
-</a>
+<img src="assets/header.svg" width="100%" alt="Badis JILANI — augmented developer, AI and emerging tech" />
 
 <br/>
 
@@ -33,6 +29,24 @@ $ cat badis.json
 ```
 
 I work at the edge between **emerging tech and operations**: I prototype with LLMs, agents and automation, then turn the ones that hold up into real tools. I build with AI as a daily teammate (Claude Code, Copilot, Cursor) and I like shipping things that actually run.
+
+<br/>
+
+## `~/activity`
+
+<div align="center">
+
+<img src="assets/activity.svg" width="100%" alt="GitHub activity: contributions, commits and streaks over the last 12 months" />
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Badis-J/Badis-J/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Badis-J/Badis-J/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution graph eaten by a snake" src="https://raw.githubusercontent.com/Badis-J/Badis-J/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
 
 <br/>
 
@@ -142,6 +156,8 @@ If you work on AI, data or innovation projects abroad, let's talk.
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/badis-jilani/)
 [![Email](https://img.shields.io/badge/Send_an_email-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff9c)](mailto:badis.jilani@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9c,40:0b3d2e,100:0d1117&height=110&section=footer" width="100%" alt="footer" />
+<br/>
+
+<img src="assets/footer.svg" width="100%" alt="exit 0" />
 
 </div>
