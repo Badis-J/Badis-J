@@ -87,7 +87,7 @@ Social media application built on a **microservices architecture** for a CESI di
 
 `Microservices` `Distributed systems`
 
-[**View repository →**](https://github.com/badis-jilani/breezy)
+[**View repository →**](https://github.com/Badis-J/breezy)
 
 </td>
     <td width="50%" valign="top">
@@ -97,7 +97,7 @@ Booking **marketplace for racquet sports** (courts, clubs, players). Side projec
 
 `Marketplace` `Booking`
 
-[**View repository →**](https://github.com/badis-jilani/qourt)
+[**View repository →**](https://github.com/Badis-J/qourt)
 
 </td>
   </tr>
