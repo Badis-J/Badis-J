@@ -4,10 +4,11 @@
 
 <br/>
 
-![LinkedIn](https://img.shields.io/badge/linkedin-badis--jilani-0A66C2?style=flat-square&logo=linkedin&logoColor=white)
-![Email](https://img.shields.io/badge/mail-badis.jilani%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=00ff9c)
-![Location](https://img.shields.io/badge/location-Paris%2C%20FR-0d1117?style=flat-square&logo=googlemaps&logoColor=00ff9c)
-![Status](https://img.shields.io/badge/status-open%20to%20internship%20Summer%202027-00ff9c?style=flat-square&labelColor=0d1117)
+<a href="https://www.linkedin.com/in/badis-jilani/"><img src="assets/badge-linkedin.svg" height="40" alt="LinkedIn: badis-jilani" /></a>
+<a href="mailto:badis.jilani@gmail.com"><img src="assets/badge-mail.svg" height="40" alt="Mail: badis.jilani@gmail.com" /></a>
+<img src="assets/badge-location.svg" height="40" alt="Location: Paris, FR" />
+<br/>
+<img src="assets/badge-status.svg" height="40" alt="Open to internship, Summer 2027" />
 
 </div>
 
@@ -66,49 +67,82 @@ I work at the edge between **emerging tech and operations**: I prototype with LL
 ## `~/projects`
 
 ```bash
-$ ls -la projects/
+$ ls -la projects/company/     # TDF · private repositories
 ```
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### ⚽ &nbsp;[FLA — Football Loisir Amateur](https://football-loisir-amateur.fr/)
-Web platform of the amateur football association in Île-de-France: teams, championships, cups, tournaments, registrations and documents. I'm the IT manager and a referee for the association.
+#### 📡 &nbsp;5G Broadcast Android app
+Industrial Android application that receives **live French TV channels** (France 2, etc.) over **5G Broadcast**, built on the native **MBMS APIs**. Developed with an AI-augmented workflow (Claude Code).
 
-`Laravel` `PHP` `MySQL` `Production`
+`Kotlin` `Android` `MBMS` `5G Broadcast` `Private repo`
 
 </td>
 <td width="50%" valign="top">
 
-#### 🐦 &nbsp;Breezy
-Social media application built on a **microservices architecture** for a CESI distributed applications module.
+#### 🧠 &nbsp;Text-to-SQL assistant
+Natural-language querying of complex databases (**Starburst**), with a benchmark of specialized tools (Wren AI). Plus automated analysis tools mixing Excel, prompt engineering and LLMs.
 
-`Microservices` `Distributed systems` `Private repo`
+`Python` `LLM` `SQL` `Starburst` `Private repo`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-#### 🏭 &nbsp;AI software factory
-Personal project: an automated, agent-driven pipeline that goes from idea to deployed digital service, on a React/Node stack.
+#### 🤖 &nbsp;Autonomous agents
+**Access-control agent** with decision logic on Azure AI Foundry, and an **application data-mapping agent** running fully on-premise (n8n + local LLM) to meet confidentiality and data-sovereignty requirements.
 
-`AI agents` `React` `Node.js` `In progress`
+`Azure AI Foundry` `n8n` `Local LLM` `Private repo`
 
 </td>
 <td width="50%" valign="top">
 
-#### 🎲 &nbsp;[LifeGame](https://github.com/Badis-J/LifeGame)
-Conway's Game of Life implemented with object-oriented programming in C++.
+#### ⚙️ &nbsp;SharePoint mass-migration pipeline
+Hybrid **Excel + RPA** pipeline for large-scale document migration and indexing into SharePoint, plus an RPA bot that centralizes and manages an employee photo library.
 
-`C++` `OOP` `Public repo`
+`Power Automate` `RPA` `Excel` `SharePoint` `Private repo`
 
 </td>
 </tr>
 </table>
 
-> `// most of my work lives in private repositories (TDF and school projects). Happy to walk through it live.`
+```bash
+$ ls -la projects/personal/    # side projects & school
+```
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+#### ⚽ &nbsp;[FLA — Football Loisir Amateur](https://football-loisir-amateur.fr/)
+Web platform of the amateur football association in Île-de-France (teams, championships, cups, tournaments, registrations). I'm its IT manager.
+
+`Laravel` `PHP` `MySQL` `Production`
+
+</td>
+<td width="33%" valign="top">
+
+#### 🏭 &nbsp;AI software factory
+Agent-driven pipeline that goes from idea to a deployed digital service, on a React/Node stack.
+
+`AI agents` `React` `Node.js` `In progress`
+
+</td>
+<td width="33%" valign="top">
+
+#### 🐦 &nbsp;Breezy
+Social media app on a **microservices architecture**, built for a CESI distributed applications module.
+
+`Microservices` `Distributed systems` `Private repo`
+
+</td>
+</tr>
+</table>
+
+> `// company projects live in TDF's private repositories, so no public code. Happy to walk through them in an interview.`
 
 <br/>
 
@@ -122,14 +156,14 @@ Conway's Game of Life implemented with object-oriented programming in C++.
 
 <br/><br/>
 
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![Copilot](https://img.shields.io/badge/GitHub_Copilot-0d1117?style=flat-square&logo=githubcopilot&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-0d1117?style=flat-square&logo=cursor&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![Azure AI Foundry](https://img.shields.io/badge/Azure_AI_Foundry-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-connectors-00ff9c?style=flat-square&labelColor=0d1117)
-![KNIME](https://img.shields.io/badge/KNIME-FFD300?style=flat-square&logoColor=black)
+<img src="assets/chip-claude-code.svg" height="34" alt="Claude Code" />
+<img src="assets/chip-copilot.svg" height="34" alt="GitHub Copilot" />
+<img src="assets/chip-cursor.svg" height="34" alt="Cursor" />
+<img src="assets/chip-n8n.svg" height="34" alt="n8n" />
+<img src="assets/chip-azure-ai.svg" height="34" alt="Azure AI Foundry" />
+<img src="assets/chip-power-automate.svg" height="34" alt="Power Automate" />
+<img src="assets/chip-mcp.svg" height="34" alt="MCP" />
+<img src="assets/chip-knime.svg" height="34" alt="KNIME" />
 
 </div>
 
@@ -153,8 +187,8 @@ Conway's Game of Life implemented with object-oriented programming in C++.
 
 If you work on AI, data or innovation projects abroad, let's talk.
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/badis-jilani/)
-[![Email](https://img.shields.io/badge/Send_an_email-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff9c)](mailto:badis.jilani@gmail.com)
+<a href="https://www.linkedin.com/in/badis-jilani/"><img src="assets/btn-linkedin.svg" height="52" alt="Connect on LinkedIn" /></a>
+<a href="mailto:badis.jilani@gmail.com"><img src="assets/btn-email.svg" height="52" alt="Send an email" /></a>
 
 <br/>
 
