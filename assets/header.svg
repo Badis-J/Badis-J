@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="240" viewBox="0 0 1000 240" role="img" aria-label="Badis JILANI — augmented developer, AI and emerging tech">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="0.6" stop-color="#0b1f1a"/>
+      <stop offset="1" stop-color="#0b3d2e"/>
+    </linearGradient>
+    <linearGradient id="title" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#00ff9c"/>
+    </linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#ffffff" stroke-opacity="0.045" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="glow" cx="0.9" cy="0.1" r="0.7">
+      <stop offset="0" stop-color="#00ff9c" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#00ff9c" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1000" height="240" rx="14" fill="url(#bg)"/>
+  <rect width="1000" height="240" rx="14" fill="url(#grid)"/>
+  <rect width="1000" height="240" rx="14" fill="url(#glow)"/>
+  <rect x="0.5" y="0.5" width="999" height="239" rx="14" fill="none" stroke="#00ff9c" stroke-opacity="0.25"/>
+
+  <!-- window chrome -->
+  <circle cx="34" cy="30" r="6" fill="#ff5f56"/>
+  <circle cx="56" cy="30" r="6" fill="#ffbd2e"/>
+  <circle cx="78" cy="30" r="6" fill="#27c93f"/>
+  <text x="970" y="35" text-anchor="end" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#6e7681">badis@cesi: ~/profile</text>
+
+  <!-- title -->
+  <text x="66" y="105" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="58" font-weight="700" fill="url(#title)" letter-spacing="1">BADIS JILANI</text>
+  <text x="70" y="136" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="16" fill="#58a6ff" fill-opacity="0.9">augmented_developer<tspan fill="#6e7681"> // </tspan>ai &amp; emerging tech</text>
+
+  <clipPath id="clip0"><rect x="68" y="156" width="0" height="42">
+    <animate attributeName="width" dur="18.0s" repeatCount="indefinite" calcMode="linear"
+      keyTimes="0;0.1;0.2325;0.25;1" values="0;532.0;532.0;0;0"/>
+  </rect></clipPath>
+  <g clip-path="url(#clip0)">
+    <text x="70" y="186" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="22" textLength="528.0" lengthAdjust="spacing">
+      <tspan fill="#00ff9c">&gt; whoami </tspan><tspan fill="#6e7681">→ </tspan><tspan fill="#e6edf3">CS engineering student @ CESI</tspan>
+    </text>
+  </g>
+  <rect x="70" y="164" width="11" height="26" fill="#00ff9c" opacity="0">
+    <animate attributeName="x" dur="18.0s" repeatCount="indefinite" calcMode="linear"
+      keyTimes="0;0.1;0.2325;0.25;1" values="70;602.0;602.0;70;70"/>
+    <animate attributeName="opacity" dur="18.0s" repeatCount="indefinite" calcMode="discrete"
+      keyTimes="0;0.0;0.25;1" values="0;0.9;0;0"/>
+  </rect>
+  <clipPath id="clip1"><rect x="68" y="156" width="0" height="42">
+    <animate attributeName="width" dur="18.0s" repeatCount="indefinite" calcMode="linear"
+      keyTimes="0;0.25;0.35;0.4825;0.5;1" values="0;0;650.8;650.8;0;0"/>
+  </rect></clipPath>
+  <g clip-path="url(#clip1)">
+    <text x="70" y="186" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="22" textLength="646.8" lengthAdjust="spacing">
+      <tspan fill="#00ff9c">&gt; role </tspan><tspan fill="#6e7681">→ </tspan><tspan fill="#e6edf3">Digital Innovation &amp; Emerging Tech @ TDF</tspan>
+    </text>
+  </g>
+  <rect x="70" y="164" width="11" height="26" fill="#00ff9c" opacity="0">
+    <animate attributeName="x" dur="18.0s" repeatCount="indefinite" calcMode="linear"
+      keyTimes="0;0.25;0.35;0.4825;0.5;1" values="70;70;720.8;720.8;70;70"/>
+    <animate attributeName="opacity" dur="18.0s" repeatCount="indefinite" calcMode="discrete"
+      keyTimes="0;0.25;0.5;1" values="0;0.9;0;0"/>
+  </rect>
+  <clipPath id="clip2"><rect x="68" y="156" width="0" height="42">
+    <animate attributeName="width" dur="18.0s" repeatCount="indefinite" calcMode="linear"
+      keyTimes="0;0.5;0.6;0.7325;0.75;1" values="0;0;598.0;598.0;0;0"/>
+  </rect></clipPath>
+  <g clip-path="url(#clip2)">
+    <text x="70" y="186" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="22" textLength="594.0" lengthAdjust="spacing">
+      <tspan fill="#00ff9c">&gt; stack </tspan><tspan fill="#6e7681">→ </tspan><tspan fill="#e6edf3">LLMs · agents · automation · Kotlin</tspan>
+    </text>
+  </g>
+  <rect x="70" y="164" width="11" height="26" fill="#00ff9c" opacity="0">
+    <animate attributeName="x" dur="18.0s" repeatCount="indefinite" calcMode="linear"
+      keyTimes="0;0.5;0.6;0.7325;0.75;1" values="70;70;668.0;668.0;70;70"/>
+    <animate attributeName="opacity" dur="18.0s" repeatCount="indefinite" calcMode="discrete"
+      keyTimes="0;0.5;0.75;1" values="0;0.9;0;0"/>
+  </rect>
+  <clipPath id="clip3"><rect x="68" y="156" width="0" height="42">
+    <animate attributeName="width" dur="18.0s" repeatCount="indefinite" calcMode="linear"
+      keyTimes="0;0.75;0.85;0.9825;1.0" values="0;0;637.6;637.6;0"/>
+  </rect></clipPath>
+  <g clip-path="url(#clip3)">
+    <text x="70" y="186" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="22" textLength="633.6" lengthAdjust="spacing">
+      <tspan fill="#00ff9c">&gt; status </tspan><tspan fill="#6e7681">→ </tspan><tspan fill="#e6edf3">open to international internship 2027</tspan>
+    </text>
+  </g>
+  <rect x="70" y="164" width="11" height="26" fill="#00ff9c" opacity="0">
+    <animate attributeName="x" dur="18.0s" repeatCount="indefinite" calcMode="linear"
+      keyTimes="0;0.75;0.85;0.9825;1.0" values="70;70;707.6;707.6;70"/>
+    <animate attributeName="opacity" dur="18.0s" repeatCount="indefinite" calcMode="discrete"
+      keyTimes="0;0.75;1.0;1" values="0;0.9;0;0"/>
+  </rect>
+</svg>
