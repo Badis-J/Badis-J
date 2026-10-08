@@ -1,166 +1,147 @@
-<!-- Replace every `badis-jilani` below with your exact GitHub username if it differs -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Badis%20JILANI&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Augmented%20Developer%20%C2%B7%20AI%20%26%20Emerging%20Tech&descAlignY=60&descSize=20" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:0b3d2e,100:00ff9c&height=200&section=header&text=Badis%20JILANI&fontSize=58&fontColor=ffffff&fontAlign=50&fontAlignY=40&animation=fadeIn&desc=%3E%20augmented_developer%20%7C%20ai%20%26%20emerging%20tech&descSize=18&descAlignY=62&descAlign=50" width="100%" alt="header" />
 
-<a href="https://github.com/badis-jilani">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=4FC3F7&center=true&vCenter=true&width=700&lines=Computer+Engineering+student+%40+CESI;Digital+Innovation+%26+Emerging+Tech+Officer+%40+TDF;Building+with+LLMs%2C+agents+and+automation;Looking+for+an+international+internship+%E2%80%94+Summer+2027" alt="Typing SVG" />
+<a href="https://github.com/Badis-J">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00FF9C&background=00000000&center=true&vCenter=true&width=720&height=40&lines=%3E+whoami+%E2%86%92+CS+engineering+student+%40+CESI;%3E+role+%E2%86%92+Digital+Innovation+%26+Emerging+Tech+%40+TDF;%3E+stack+%E2%86%92+LLMs+%C2%B7+agents+%C2%B7+automation+%C2%B7+Kotlin;%3E+status+%E2%86%92+open+to+international+internship+2027" alt="typing" />
 </a>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-badis--jilani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/badis-jilani/)
-[![Email](https://img.shields.io/badge/Email-badis.jilani@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:badis.jilani@gmail.com)
-![Location](https://img.shields.io/badge/Paris-France-2C5364?style=for-the-badge&logo=googlemaps&logoColor=white)
-![Status](https://img.shields.io/badge/Open%20to-International%20Internship%202027-2ea44f?style=for-the-badge)
+![LinkedIn](https://img.shields.io/badge/linkedin-badis--jilani-0A66C2?style=flat-square&logo=linkedin&logoColor=white)
+![Email](https://img.shields.io/badge/mail-badis.jilani%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=00ff9c)
+![Location](https://img.shields.io/badge/location-Paris%2C%20FR-0d1117?style=flat-square&logo=googlemaps&logoColor=00ff9c)
+![Status](https://img.shields.io/badge/status-open%20to%20internship%20Summer%202027-00ff9c?style=flat-square&labelColor=0d1117)
 
 </div>
 
----
+<br/>
 
-## 👋 About me
+## `~/whoami`
 
-I'm a **Computer Engineering student at CESI** (work-study program), and I work at **TDF** in the *Exploration & Incubation* department, turning technological disruptions into levers of operational performance.
-
-I call myself an **augmented developer**: I build with AI as a daily teammate (Claude Code, Copilot, Cursor), and I care about shipping things that actually work, from POC to MVP.
-
-```kotlin
-val badis = Engineer(
-    school      = "CESI Graduate School of Engineering",
-    role        = "Digital Innovation & Emerging Technologies Officer @ TDF",
-    focus       = listOf("AI & LLMs", "Agents", "Automation", "5G Broadcast"),
-    workflow    = "AI-augmented development",
-    lookingFor  = "12-week international internship · Summer 2027"
-)
+```bash
+$ cat badis.json
+{
+  "name":     "Badis Jilani",
+  "school":   "CESI Graduate School of Engineering (2023 → 2028, work-study)",
+  "role":     "Digital Innovation & Emerging Technologies Officer @ TDF",
+  "team":     "Exploration & Incubation",
+  "approach": "AI-augmented development, from POC to MVP",
+  "langs":    ["French (native)", "English (fluent)"],
+  "seeking":  "12-week international internship, Summer 2027"
+}
 ```
 
----
+I work at the edge between **emerging tech and operations**: I prototype with LLMs, agents and automation, then turn the ones that hold up into real tools. I build with AI as a daily teammate (Claude Code, Copilot, Cursor) and I like shipping things that actually run.
 
-## 🚀 What I work on
+<br/>
 
-| | Focus | Details |
-|---|---|---|
-| 📡 | **5G Broadcast** | Industrial Android app in **Kotlin** receiving live French TV channels over 5G Broadcast with native **MBMS APIs** |
-| 🧠 | **AI & Data** | Text-to-SQL on complex databases, Python analysis tools combining Excel, prompt engineering and LLMs |
-| 🤖 | **Autonomous Agents** | Access-control agent on **Azure AI Foundry**, fully **on-premise** data-mapping agent (**n8n + local LLM**) for data sovereignty |
-| ⚙️ | **Mass Automation** | Hybrid Excel/RPA pipelines for large-scale document migration and indexing into SharePoint |
-| 🔬 | **POCs** | AI-assisted Image-to-3D, computer vision data labeling, Meta Quest 3D, Copilot Studio |
+## `~/missions` &nbsp;·&nbsp; at TDF
 
----
+| Module | What I build | Stack |
+|:--|:--|:--|
+| **`5g-broadcast`** | Industrial Android app receiving live French TV channels over 5G Broadcast, using native MBMS APIs | `Kotlin` `Android` `MBMS` |
+| **`ai-data`** | Text-to-SQL over complex databases, automated analysis tools combining Excel, prompt engineering and LLMs | `Python` `LLM` `SQL` |
+| **`agents`** | Access-control agent on Azure AI Foundry. Fully on-premise data-mapping agent for data sovereignty | `Azure AI Foundry` `n8n` `local LLM` |
+| **`mass-automation`** | Hybrid Excel/RPA pipelines for large-scale document migration and indexing into SharePoint | `Power Automate` `RPA` `SharePoint` |
+| **`poc-lab`** | Image-to-3D, computer vision data labeling, Meta Quest 3D, Copilot Studio mini-game | `Computer Vision` `3D` `Copilot Studio` |
+| **`tech-watch`** | Benchmarks on MCP, TTS/STT and AI coding assistants. Representation at VivaTech, Big Data & AI Paris, Microsoft AI Tour, AWS Summit | `MCP` `Cursor` `Claude Code` |
 
-## 🛠️ Tech stack
+<br/>
 
-<div align="center">
+## `~/projects`
 
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=python,kotlin,cpp,c,php,js,html,css,lua,mysql&theme=dark" alt="languages" />
-
-**Frameworks, mobile & tools**
-
-<img src="https://skillicons.dev/icons?i=laravel,react,nodejs,androidstudio,docker,linux,git,github,azure,figma&theme=dark" alt="tools" />
-
-**AI & automation**
-
-![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Azure AI Foundry](https://img.shields.io/badge/Azure%20AI%20Foundry-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-Connectors-4FC3F7?style=for-the-badge)
-![KNIME](https://img.shields.io/badge/KNIME-FFD300?style=for-the-badge&logoColor=black)
-
-</div>
-
----
-
-## 📂 Featured projects
+```bash
+$ ls -la projects/
+```
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
+<tr>
+<td width="50%" valign="top">
 
-### 🐦 Breezy
+#### ⚽ &nbsp;[FLA — Football Loisir Amateur](https://football-loisir-amateur.fr/)
+Web platform of the amateur football association in Île-de-France: teams, championships, cups, tournaments, registrations and documents. I'm the IT manager and a referee for the association.
+
+`Laravel` `PHP` `MySQL` `Production`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🐦 &nbsp;Breezy
 Social media application built on a **microservices architecture** for a CESI distributed applications module.
 
-`Microservices` `Distributed systems`
-
-[**View repository →**](https://github.com/Badis-J/breezy)
+`Microservices` `Distributed systems` `Private repo`
 
 </td>
-    <td width="50%" valign="top">
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### 🎾 Qourt
-Booking **marketplace for racquet sports** (courts, clubs, players). Side project.
+#### 🏭 &nbsp;AI software factory
+Personal project: an automated, agent-driven pipeline that goes from idea to deployed digital service, on a React/Node stack.
 
-`Marketplace` `Booking`
-
-[**View repository →**](https://github.com/Badis-J/qourt)
-
-</td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-### ⚽ FLA — Football Loisir Amateur
-**Laravel platform** for amateur football in Île-de-France. I'm also a referee and the IT manager of the association.
-
-`Laravel` `PHP` `Web platform`
-
-[**football-loisir-amateur.fr →**](https://football-loisir-amateur.fr)
+`AI agents` `React` `Node.js` `In progress`
 
 </td>
-    <td width="50%" valign="top">
+<td width="50%" valign="top">
 
-### 🏭 AI software factory
-Personal project: an automated **end-to-end AI pipeline** (agent-driven) to create digital services, on a React/Node stack.
+#### 🎲 &nbsp;[LifeGame](https://github.com/Badis-J/LifeGame)
+Conway's Game of Life implemented with object-oriented programming in C++.
 
-`AI agents` `React` `Node.js`
-
-*Work in progress*
+`C++` `OOP` `Public repo`
 
 </td>
-  </tr>
+</tr>
 </table>
 
-> 💡 Update the repository links above to match your real repo names (or remove the link line for private projects).
+> `// most of my work lives in private repositories (TDF and school projects). Happy to walk through it live.`
 
----
+<br/>
 
-## 📊 GitHub stats
+## `~/stack`
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=badis-jilani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=badis-jilani&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
+<img src="https://skillicons.dev/icons?i=python,kotlin,cpp,c,php,js,html,css,lua,mysql&theme=dark" alt="languages" />
+<br/>
+<img src="https://skillicons.dev/icons?i=laravel,react,nodejs,androidstudio,docker,linux,git,github,azure,figma&theme=dark" alt="tools" />
 
-<img src="https://streak-stats.demolab.com?user=badis-jilani&theme=tokyonight&hide_border=true" alt="streak" />
+<br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=badis-jilani&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies" />
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Copilot](https://img.shields.io/badge/GitHub_Copilot-0d1117?style=flat-square&logo=githubcopilot&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-0d1117?style=flat-square&logo=cursor&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Azure AI Foundry](https://img.shields.io/badge/Azure_AI_Foundry-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-connectors-00ff9c?style=flat-square&labelColor=0d1117)
+![KNIME](https://img.shields.io/badge/KNIME-FFD300?style=flat-square&logoColor=black)
 
 </div>
 
----
+<br/>
 
-## 🌍 Currently
+## `~/now`
 
-- 🔭 Building AI agents and automation workflows at **TDF**
-- 📡 Shipping **5G Broadcast** experiments on Android
-- 🎓 Studying Computer Engineering at **CESI** until 2028
-- ✈️ Looking for a **12-week international internship, summer 2027** (Canada, Nordics, Singapore)
-- 🗣️ Languages: French (native), English (fluent)
+```diff
++ building   AI agents and automation workflows at TDF
++ shipping   5G Broadcast experiments on Android
++ studying   Computer Engineering at CESI (until 2028)
++ looking    12-week international internship, Summer 2027
+             targets: Canada, Nordics, Singapore
+```
+
+<br/>
 
 <div align="center">
 
-### 📬 Let's talk
+### `$ ./contact --open`
 
-If you work on AI, data or innovation projects abroad, I'd love to hear from you.
+If you work on AI, data or innovation projects abroad, let's talk.
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/badis-jilani/)
-[![Email](https://img.shields.io/badge/Send%20an%20email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:badis.jilani@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/badis-jilani/)
+[![Email](https://img.shields.io/badge/Send_an_email-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff9c)](mailto:badis.jilani@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9c,40:0b3d2e,100:0d1117&height=110&section=footer" width="100%" alt="footer" />
 
 </div>
